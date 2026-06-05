@@ -1,15 +1,53 @@
 <!-- <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div> -->
-<h2 align="left">Hello! My name is Hemlata<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="left">Hello! My name is Hemlata<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+
+<h3 align="left">
+Senior Frontend & Mobile Engineer • React • Next.js • React Native
+</h3>
+
+<p align="left">
+With 5+ years of experience building scalable web and mobile applications,
+I specialize in React, Next.js, React Native, JavaScript, and TypeScript.
+I enjoy creating high-performance user experiences, collaborating with
+cross-functional teams, and turning complex ideas into intuitive products.
+</p>
 
 ###
 
+<p align="left">
+🚀 Building modern web & mobile applications<br/>
+📱 React Native Expert<br/>
+⚡ React & Next.js Specialist<br/>
+🌍 Open to Remote Opportunities
+</p>
+
+<br>
+
+## 🚀 Core Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+
+</p>
+
+<br>
+
+## 🚀 Other Technologies
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
@@ -65,11 +103,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
 </div>
 
-###
-
-<div align="left">
+<!-- <div align="left">
   <img src="https://raw.githubusercontent.com/Hemlata1509/Hemlata1509/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+</div> -->
+
+<br>
 
 ###
 
