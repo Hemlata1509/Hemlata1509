@@ -16,6 +16,10 @@ cross-functional teams, and turning complex ideas into intuitive products.
 
 ###
 
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <p align="left">
 🚀 Building modern web & mobile applications<br/>
 📱 React Native Expert<br/>
@@ -109,9 +113,13 @@ cross-functional teams, and turning complex ideas into intuitive products.
 
 <br>
 
-###
+## 💼 What I Do
 
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+- Build production-ready React & Next.js applications
+- Develop cross-platform mobile apps using React Native
+- Create reusable component libraries and scalable architectures
+- Optimize performance, accessibility, and user experience
+- Collaborate closely with product, design, and backend teams
 
 ###
 
@@ -127,8 +135,20 @@ cross-functional teams, and turning complex ideas into intuitive products.
 
 ###
 
-<br clear="both">
+## 🌱 Currently
+
+- Exploring AI-assisted development workflows
+- Building scalable React Native applications
+- Deepening expertise in Next.js and modern frontend architecture
+
+
 
 <img src="https://raw.githubusercontent.com/Hemlata1509/Hemlata1509/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemlata1509.Hemlata1509&"  />
+</div>
 
 ###
